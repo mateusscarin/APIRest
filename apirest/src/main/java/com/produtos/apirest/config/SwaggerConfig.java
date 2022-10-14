@@ -39,8 +39,7 @@ public class SwaggerConfig {
                 new Contact("Mateus Scarin", "https://github.com/mateusscarin",
                         "mateus.scarin@gmail.com"),
                 "Apache License Version 2.0",
-                "https://www.apache.org/licesen.html", new ArrayList<VendorExtension>()
-        );
+                "https://www.apache.org/licesen.html", new ArrayList<VendorExtension>());
 
         return apiInfo;
     }
